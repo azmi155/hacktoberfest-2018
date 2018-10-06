@@ -96,4 +96,4 @@
 #### Name: [Ulul Azmi](https://github.com/azmi155)
 - Place: Lombok, Indonesia
 - Bio: Student at STMIK BUMIGORA
-- GitHub: [Michael Cao](https://github.com/azmi155)
+- GitHub: [Ulul Azmi](https://github.com/azmi155)
